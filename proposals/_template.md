@@ -73,6 +73,16 @@ For each milestone:
 
 We're incentivizing depositing assets (e.g. DAI) into NFTs with our Protocol. Once deposited, these assets are converted to yield-bearing assets (e.g. aDAI). Users are incentivized to Deposit and Hold these assets (e.g. aDAI) with our liquidity mining program, rewarding them in our native governance token. Would love to integrate mUSD SAVE.
 
+
+| Number | Deliverable | Specification |
+| ------------- | ------------- | ------------- |
+| 0a. | License | Apache 2.0 / MIT / Unlicense |
+| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can convert primary asset to mUSD using our application. |
+| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide we will describe how to run these tests |
+| 1. | mUSD Integration| Primary assets (e.g. DAI, USDT, USDC) can be converted to mUSD upon deposit |
+
+
+
 ### Community engagement
 
 Supporting the mStable community and letting the world know about the integration is no problem at all. 
