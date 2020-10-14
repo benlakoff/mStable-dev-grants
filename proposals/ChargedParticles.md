@@ -19,7 +19,7 @@ For this reason, the team has committed to a full “fair launch” and is only 
 
 In the past month, we've all shifted to full time effort.
 
-Most of the code is still private until after we finish our audit and launch on mainnet. This is what is public: https://github.com/robsecord/ChargedParticlesEth
+Most of the code is still private (https://github.com/Charged-Particles/charged-particles-universe) until after we finish our audit and launch on mainnet. This is what is public: https://github.com/robsecord/ChargedParticlesEth
 
 ## Team
 
