@@ -50,17 +50,6 @@ Charged Particles is a long-term endeavor. This is our full-time focus and will 
 
 This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
 
-Below we provide an **example roadmap**. In the descriptions it should be clear how the project is related to mStable.
-
-For each milestone:
-
-* Please be sure to include a specification of the software. The level of detail must be enough so that we are able to verify that the software meets the specification.
-* Please include total amount of funding requested per milestone.
-* Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-* Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-* Please commit to providing a dockerfiles for the delivery of your project.
-* Please indicate the milestone duration, as well as number of Full-Time Employees working on each milestone, and include the number of days along with their cost per day.
-
 ### Overview
 * **Total Estimated Duration:** Duration of the whole project
 * **Full-time equivalent (FTE):**  Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
@@ -76,9 +65,8 @@ We're incentivizing depositing assets (e.g. DAI) into NFTs with our Protocol. On
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can convert primary asset to mUSD using our application. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide we will describe how to run these tests |
+| 0a. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can convert primary asset to mUSD using our application. |
+| 0b. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide we will describe how to run these tests |
 | 1. | mUSD Integration| Primary assets (e.g. DAI, USDT, USDC) can be converted to mUSD upon deposit |
 
 
